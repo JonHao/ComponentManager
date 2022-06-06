@@ -1,0 +1,8 @@
+rootProject.name = "Sample"
+include ':app'
+include ':foundation:a'
+include ':foundation:b'
+include ':foundation:c'
+include ':kit:a-kit'
+include ':kit:b-kit'
+include ':biz:a-biz'
